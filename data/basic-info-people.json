@@ -12,5 +12,12 @@
         "height": 0.0,
         "weight": 0.0,
         "age": 0
+    },
+    {
+        "name": "nico",
+        "gender": "string",
+        "height": 0.0,
+        "weight": 0.0,
+        "age": 0
     }
 ]
