@@ -1,0 +1,16 @@
+[
+    {
+        "name": "sol",
+        "gender": "string",
+        "height": 0.0,
+        "weight": 0.0,
+        "age": 0
+    },
+    {
+        "name": "nick",
+        "gender": "string",
+        "height": 0.0,
+        "weight": 0.0,
+        "age": 0
+    }
+]
