@@ -2,7 +2,6 @@ import os
 import json
 from models.person import Person
 
-
 def save_info(person_info:Person):
     path = "data/basic-info-people.json"
     new_user = person_info.model_dump()
